@@ -1,4 +1,5 @@
 import chalk from 'chalk';
+let alter = 19;
 
 console.log(chalk.blue('It works'));
 
