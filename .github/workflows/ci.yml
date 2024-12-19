@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  berna-linter:
+  lint-format-test:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
